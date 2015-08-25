@@ -9,3 +9,12 @@
 
 ### Learning
 - https://github.com/bitemyapp/learnhaskell
+- First post in series on getting from zero to REST API: https://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html
+
+### Web Frameworks
+- [Spock](https://www.spock.li/)
+- [Scotty](https://github.com/scotty-web)
+- [Yesod](http://www.yesodweb.com/)
+
+### Deploying
+- https://haskellonheroku.com/
